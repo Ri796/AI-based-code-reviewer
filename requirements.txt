@@ -28,7 +28,11 @@ numpy
 scikit-learn
 
 #Pytorch --If asked to install when run the open source model from 
-huggingface
+# huggingface
 torch
 torchvision
 torchaudio
+
+# UI Framework
+streamlit
+autopep8
